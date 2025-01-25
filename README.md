@@ -2,7 +2,6 @@
 
 Aplikasi sederhana untuk melihat cuaca saat ini di berbagai kota.
 
-<br>
 
 ### ───── Tech Stack ─────
 
