@@ -1,10 +1,10 @@
-# Weather App
+# Aplikasi Cuaca
 
-A basic weather app
+Aplikasi sederhana untuk melihat cuaca saat ini di berbagai kota.
 
 <br>
 
-### ☆ ───── Technologies ───── ☆
+### ───── Tech Stack ─────
 
 <br>
 ☆ React <br>
@@ -14,7 +14,7 @@ A basic weather app
 ☆ OpenWeatherMap API <br>
 <br>
 
-### ☆ ───── Screenshots ───── ☆
+### ───── Screenshots ─────
 
  <br>
 
